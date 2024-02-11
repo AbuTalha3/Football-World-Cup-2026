@@ -16,6 +16,10 @@ img {
   border-radius: 50%; 
 }
 
+img:hover {
+ border: solid 3px #f3eff2;
+}
+
 .heading-main {
   display: flex;
   align-items: center;
@@ -43,4 +47,10 @@ ul li {
   font-size: 20px;
   color: rgb(211, 245, 20);
   text-transform: uppercase;
+}
+
+.sub-heading:hover {
+  background-color: #f93ca4;
+  font-size: 30px;
+  color: aliceblue;
 }
