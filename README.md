@@ -5,7 +5,8 @@ Description:
 
 Features:
 
-Live Match Updates: Get real-time updates on all matches, including live scores, goals, substitutions, and match statistics.
+### Live Match Updates:
+Get real-time updates on all matches, including live scores, goals, substitutions, and match statistics.
 News and Highlights: Stay informed with the latest news articles, analysis, and video highlights covering the World Cup action.
 Match Schedule: Access the complete schedule of matches, including dates, times, and venues, to never miss a game.
 Team Profiles: Explore detailed profiles of all participating teams, including squad lists, player bios, and team statistics.
