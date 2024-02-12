@@ -54,3 +54,83 @@ ul li {
   font-size: 30px;
   color: aliceblue;
 }
+
+
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.image-container::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('./images/Ronaldo.jpg');
+  background-size: cover;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  border-radius: 50%;
+  border: solid 3px #f3eff2;
+}
+
+.image-container:hover::after {
+  opacity: 1;
+}
+
+.img-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.img-container:hover img {
+  border: solid 3px #f3eff2;
+}
+
+.see-more {
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #7f35f6;
+  border-radius: 5px;
+}
+
+.image-container-messi {
+  position: relative;
+  display: inline-block;
+}
+
+.image-container-messi::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('./images/MessiPp.jpg');
+  background-size: cover;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  border-radius: 50%;
+  border: solid 3px #f3eff2;
+  width: 250px;
+  height: 200px;
+  border-radius: 50%; 
+}
+
+.image-container-messi:hover::after {
+  opacity: 1;
+}
+
+.img-container-messi img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.img-container-messi:hover img {
+  border: solid 3px #f3eff2;
+}
