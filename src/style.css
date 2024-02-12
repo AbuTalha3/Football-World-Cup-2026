@@ -134,3 +134,11 @@ ul li {
 .img-container-messi:hover img {
   border: solid 3px #f3eff2;
 }
+
+.name-player{
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #6bbcff;
+  margin-left: 80px;
+}
