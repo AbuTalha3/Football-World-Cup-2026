@@ -22,4 +22,6 @@ Set up personalized notifications for your favorite teams or specific matches to
 ## Social Integration:
 Connect with other fans through social media integration, share your excitement, and join discussions about the tournament.
 ## The Football World Cup 2026 App
-It is designed to provide football enthusiasts with an immersive and interactive experience throughout the tournament, ensuring you stay connected and engaged with the biggest event in global football. Whether you're a die-hard fan or a casual follower, this app has everything you need to make the most out of the World Cup 2026 journey. Download now and be part of the excitement!
+It is designed to provide football enthusiasts with an immersive and interactive experience throughout the tournament, ensuring you stay connected and engaged with the biggest event in global football. Whether you're a die-hard fan or a casual follower, this app has everything you need to make the most out of the World Cup 2026 journey.
+## Download
+Download now and be part of the excitement!
