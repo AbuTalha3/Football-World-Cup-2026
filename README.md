@@ -1,7 +1,7 @@
 # The Football World Cup 2026
 
 ## Description:
-`THE FOOTBALL WORLD CUP 2026` App is your comprehensive companion for the most anticipated event in international football. With this app, you'll stay updated on all the latest news, matches, scores, and insights surrounding the 2026 FIFA World Cup.
+**`THE FOOTBALL WORLD CUP 2026`** App is your comprehensive companion for the most anticipated event in international football. With this app, you'll stay updated on all the latest news, matches, scores, and insights surrounding the 2026 FIFA World Cup.
 
 Features:
 
