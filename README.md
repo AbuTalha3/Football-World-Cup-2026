@@ -6,7 +6,7 @@
 Features:
 
 ## Live Match Updates:
-Get real-time updates on all matches, including live scores, goals, substitutions, and `match statistics`.
+Get real-time **updates on all matches**, including live scores, goals, substitutions, and `match statistics`.
 ## News and Highlights:
  Stay informed with the latest news articles, analysis, and video highlights covering the World Cup action.
 ## Match Schedule:
