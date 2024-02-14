@@ -26,4 +26,5 @@ It is designed to provide football enthusiasts with an immersive and interactive
 ## Download
 Download now and be part of the excitement!
 ## Features to be added
-On line ticket reservation!
+- Online ticket reservation!
+- Players's Autographed Shirts.
