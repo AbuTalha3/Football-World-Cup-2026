@@ -16,7 +16,7 @@ Get real-time **updates on all matches**, including live scores, goals, substitu
 ## Team Profiles:
 Explore detailed profiles of all participating teams, including squad lists, player bios, and `team statistics`. You can cheer for your team and increase ratings by buying their shirts and other dress items.
 ## Venue Information:
-Learn about the stadiums hosting the matches, including location details, seating capacity, and facilities.
+Learn about the stadiums hosting the matches, including location details, seating capacity, and facilities. Venues will be added as soon as the schedule is made available.
 ## Predictions and Polls:
 Participate in polls, make predictions, and engage with other fans to share your opinions and insights.
 ## Customizable Notifications:
