@@ -20,7 +20,7 @@ Learn about the stadiums hosting the matches, including location details, seatin
 ## Predictions and Polls:
 Participate in polls, make predictions, and engage with other fans to share your opinions and insights.
 ## Customizable Notifications:
-Set up personalized notifications for your favorite teams or specific matches to receive updates tailored to your preferences.
+Set up personalized notifications for your favorite teams and players or specific matches to receive updates tailored to your preferences.
 ## Social Integration:
 Connect with other fans through social media integration, share your excitement, and join discussions about the tournament.
 ## The Football World Cup 2026 App
